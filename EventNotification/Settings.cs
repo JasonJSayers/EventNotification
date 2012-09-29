@@ -65,7 +65,7 @@ namespace EventNotification
                 int i = argument.IndexOf(':');
 
                 if (i >= 1)
-                    _arguments[argument.Substring(0, i).ToUpper()] = argument.Substring(i + 1);
+                    _arguments[argument.Substring(0, i).ToUpper()] = argument.Substring(i + 1).Trim('"');  // Triming  double quotes from settings that require it.
                 else
                     _arguments[argument.ToUpper()] = string.Empty;
 
