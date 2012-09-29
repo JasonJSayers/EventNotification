@@ -1,0 +1,7 @@
+C:\Users\Jason\AppData\Local\Temporary Projects\EventNotification\bin\Debug\EventNotification.exe
+C:\Users\Jason\AppData\Local\Temporary Projects\EventNotification\bin\Debug\EventNotification.pdb
+C:\Users\Jason\AppData\Local\Temporary Projects\EventNotification\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jason\AppData\Local\Temporary Projects\EventNotification\obj\x86\Debug\EventNotification.exe
+C:\Users\Jason\AppData\Local\Temporary Projects\EventNotification\obj\x86\Debug\EventNotification.pdb
+C:\Users\Jason\documents\visual studio 2010\Projects\EventNotification\EventNotification\obj\x86\Debug\EventNotification.exe
+C:\Users\Jason\documents\visual studio 2010\Projects\EventNotification\EventNotification\obj\x86\Debug\EventNotification.pdb

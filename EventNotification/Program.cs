@@ -18,7 +18,7 @@ namespace EventNotification
             // Do not run through main logic if there are currently errors
             if (!HasErrors)
             {
-
+                
             }
 
 #if DEBUG
