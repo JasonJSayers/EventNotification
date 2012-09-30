@@ -2,10 +2,10 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
     <StartWorkingDirectory>D:\</StartWorkingDirectory>
-    <StartArguments>Threshold:2 LogFile:D:\Logs\event.log</StartArguments>
+    <StartArguments>Threshold:3 LogFile:D:\Logs\event.log -A</StartArguments>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
     <StartWorkingDirectory>D:\</StartWorkingDirectory>
-    <StartArguments>Threshold:2 LogFile:D:\Logs\event.log</StartArguments>
+    <StartArguments>Threshold:3 LogFile:D:\Logs\event.log -A</StartArguments>
   </PropertyGroup>
 </Project>
